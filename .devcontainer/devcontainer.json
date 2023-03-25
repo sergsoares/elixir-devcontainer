@@ -13,7 +13,7 @@
 
   "postCreateCommand": "",
 
-  "remoteUser": "vscode",
+  "remoteUser": "root",
 
   "extensions": [
     "editorconfig.editorconfig",
